@@ -1,0 +1,4 @@
+Nezavisno od platforme potrebno je pozicionirati se na ...<mongo instalacija>\bin i iz komandne linije pozvati: 
+"mongod --dbpath <path do data direktorijuma>"
+
+Backup baze koji si nalazi u direktorijumu "db backup" je potrebno kopirati u data direktorijum koji se moze nalaziti bilo gde na racunaru.
